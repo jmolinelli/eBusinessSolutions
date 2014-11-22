@@ -1,0 +1,2 @@
+﻿1. Use delegates to collapse the getSentenceSignature and getNounPhraseSignature into a single function that traverses the tree and gets the children.
+2. Extend the tree class to simplify my examine tree node and walking code.
